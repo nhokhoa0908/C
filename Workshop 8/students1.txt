@@ -1,0 +1,4 @@
+Binh Nguyen;10
+An Le;7
+Binh Tran;5.2
+Cuc Phan;7
